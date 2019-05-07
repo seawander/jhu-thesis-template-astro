@@ -1,4 +1,4 @@
-# A PhD Thesis Template for JHU Astronomy Students 
+# A PhD Thesis Template for JHU Astro 
 A working LaTeX template that is mainly designed for the astro students in the Johns Hopkins University (JHU).
 
 The detailed requirements are listed in the library [webpage](https://www.library.jhu.edu/library-services/electronic-theses-dissertations/formatting-guidelines-checklist/), and this template is based on the [Brian Weitzner](https://github.com/weitzner) [template](https://github.com/weitzner/jhu-thesis-template) provided in that webpage.
