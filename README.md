@@ -42,3 +42,4 @@ A few notes:
 2. If your paper is published in the [SPIE format](https://www.overleaf.com/latex/templates/spie-proceedings-style-template-and-guidelines-for-authors/qpkhfttzvnhz) (i.e., using numbers for the references), you may have to use ```\citet{}```, ```\citep{}```, and ```\citealp{}``` as in the AAS Journals.
 3. I manually bolded my names in the publications in the cv. You can probably try more some automatic method.
 4. The reference sections will display all the authors, you may try to limit the number of authors if there are too many. You can use [this solution](https://tex.stackexchange.com/a/26582) to change the [```plainyr-rev.bst```](https://github.com/seawander/jhu-thesis-template-astro/blob/master/moderncv/plainyr-rev.bst) file's line 248 and line 249. I have tested it and that works.
+5. Some of the files are not used, please check them yourself.
