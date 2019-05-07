@@ -7,7 +7,7 @@ The detailed requirements are listed in the library [webpage](https://www.librar
 1. Use the [NASA/ADS](https://ui.adsabs.harvard.edu) **BibTeX entries** directly.
 2. Examples of citation, figure, table, **subfigures**, **horizontal figure**, and **long table**.
 3. References orderd by name then publication date.
-4. CV template supports publications by author order (i.e., 1st-, 2nd, and n-th aurthored sections), and publication type (journal, or conference proceedings).
+4. CV template displays publications by author order (i.e., 1st-, 2nd, and n-th aurthored sections), and publication type (journal, or conference proceedings).
 5. If you used ```\added{}```, ```\deleted{}```, or ```\replaced{}{}``` while revising your journal manuscript, this template will handle them by displaying the final version only. 
 6. Support for Simplified **Chinese** characters. You can adjust it for other languages.
 
