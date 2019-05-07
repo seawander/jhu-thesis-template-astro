@@ -10,6 +10,7 @@ The detailed requirements are listed in the library [webpage](https://www.librar
 4. CV template displays publications by author order (i.e., 1st-, 2nd, and n-th aurthored sections), and publication type (i.e., journals and conference proceedings).
 5. If you used ```\added{}```, ```\deleted{}```, or ```\replaced{}{}``` while revising your journal manuscript, this template will handle them by displaying the final version only. 
 6. Support for Simplified **Chinese** characters. You can adjust it for other languages.
+7. The output is the required PDF/A format.
 
 ## 1. Compile this template
 Obtain this template from https://github.com/seawander/jhu-thesis-template-astro and make your own revisions.
