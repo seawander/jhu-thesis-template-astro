@@ -33,7 +33,7 @@ A few notes:
 %\printbibliography[title={References}]
 %\end{refsection}
 ```
-4. After addting a new chapter, if you use the command-line, then remember to add the corresponding info in the file [```makefile```](https://github.com/seawander/jhu-thesis-template-astro/blob/master/makefile) among line 5 and line 13. Then uncomment or add new lines starting from line 28.
+4. After adding a new chapter, if you use the command-line, then remember to add the corresponding info in the file [```makefile```](https://github.com/seawander/jhu-thesis-template-astro/blob/master/makefile) among line 5 and line 13. Then uncomment or add new lines starting from line 28.
 
 ## 3. Limitations
 1. This template does not support the [```deluxetable```](https://journals.aas.org/aastexguide/#deluxetable) in AAS Journals, so I adjusted them myself. That's why I used long table (example given in the ```Chapter 2.2.2```). You can probably write an interface yourself. If that works, please let me (or the future graduate students) know!
