@@ -26,7 +26,7 @@ Follow the instructions in the [template](https://github.com/weitzner/jhu-thesis
 A few notes:
 1. Compline your cv (in this [folder](https://github.com/seawander/jhu-thesis-template-astro/tree/master/moderncv)) first, then compline your thesis.
 2. You can put your figures in different folders, but remember to add the folders' directories to ```\graphicspath{{intro_chapter/}{chapter_apj/}{chapter_apj_dup/}}``` in ```main.tex```.
-3. Put your new chapters in a folder, then remembre to add it in ```main.tex```, e.g., starting from the 304 line (or uncomment them if you have identical folders as mine): 
+3. Put your new chapters in a folder, then remember to add it in ```main.tex```, e.g., starting from the 304 line (or uncomment them if you have identical folders as mine): 
 ```
 %\begin{refsection}[chapterNMF/nmf_chapter.bib] % put your own chapter here in this format
 %\include{chapterNMF/nmf_chapter}
