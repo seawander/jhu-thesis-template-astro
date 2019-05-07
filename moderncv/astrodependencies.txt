@@ -1,0 +1,27 @@
+\newcommand{\arcsec}{^{\prime\prime}}
+\newcommand{\micron}{^{\mu\rm~m}}
+\newcommand{\aj}{The Astronomical Journal}
+\newcommand{\pasp}{Publications of the Astronomical Society of the Pacific}
+\newcommand{\apjl}{The Astrophysical Journal Letters}
+\newcommand{\apj}{The Astrophysical Journal}
+\newcommand{\apjs}{The Astrophysical Journal Supplement Series}
+\newcommand{\nat}{Nature}
+\newcommand{\ssr}{Space Science Reviews}
+\newcommand{\procspie}{Proceedings of the SPIE}
+\newcommand{\aap}{Astronomy and Astrophysics}
+\newcommand{\mnras}{Monthly Notices of the Royal Astronomical Society}
+\newcommand{\araa}{Annual Review of Astronomy and Astrophysics}
+\newcommand{\aaps}{Astronomy and Astrophysics Supplement Series}
+\newcommand{\jgr}{Journal of Geophysics Research}
+\newcommand{\icarus}{Icarus}
+\newcommand{\pasa}{Publications of the Astronomical Society of Australia}
+\newcommand{\rmxaa}{Revista Mexicana de Astronomia y Astrofisica}
+\newcommand{\jqsrt}{Journal of Quantitative Spectroscopy and Radiative Trasfer}
+
+
+\newcommand{\Qr}{$\mathcal{Q}_\phi$}
+\newcommand{\Ur}{$\mathcal{U}_\phi$}
+\newcommand{\degr}{$^\circ$}
+\newcommand\numberthis{\addtocounter{equation}{1}\tag{\theequation}}
+\newcommand{\mdash}{---}
+\newcommand{\ndash}{--}

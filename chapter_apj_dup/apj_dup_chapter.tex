@@ -1,0 +1,31 @@
+\chapter{Another Chapter in \textit{ApJ} Style}\label{chapter-apj-dup}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Note: if you want italic font in your chapter title, use \textbackslash\{\} rather than \textbackslash{it}\{\} to have a better formatting in the Table of Contents.
+\paragraph*{Abstract} This is your abstract.
+
+\section{Table example}
+Table~\ref{tab:stis-obs} has been presented in \citet{ren17}. It is not presented in \citet{ren18}. I am citing two references just to show you that the Reference section for this table will have two entries.
+
+In the .bib file, you do not have to arrange the entries by their citation order! And you can add more entries---they will \textbf{not} appear on the References section as long as you don't cite them.
+
+
+\begin{table}[htb!]
+\centering
+\caption[Summary of {\it HST}/STIS coronagraphic imaging observations as of 2016 December.]{Summary of Public {\it HST}/STIS Observations as of Dec.~2016.}
+\label{tab:stis-obs}
+\begin{tabular}{ccc}\hline\hline
+   & Proposed Aperture Name & Number of Flat-Fielded Files \\ \hline
+1  & BAR10                  & 116             \\
+2  & {\bf WEDGE A0.6}             & {\bf 228}            \\
+3  & {\bf WEDGE A1.0}             & {\bf 493}             \\
+4  & WEDGE A1.8             & 86              \\
+5  & WEDGE A2.0             & 39              \\
+6  & WEDGE A2.5             & 1               \\
+7  & WEDGE A2.8             & 5               \\
+8  & WEDGE B1.0             & 37              \\
+9  & WEDGE B1.8             & 8               \\
+10 & WEDGE B2.0             & 9               \\
+11 & WEDGE B2.5             & 116             \\
+12 & WEDGE B2.8             & 5\\ \hline
+\end{tabular}
+\end{table}
